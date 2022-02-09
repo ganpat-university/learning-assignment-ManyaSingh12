@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\obj\Debug\net5.0\Demo_ArgumentTypes.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\obj\Debug\net5.0\Demo_ArgumentTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\obj\Debug\net5.0\Demo_ArgumentTypes.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\obj\Debug\net5.0\Demo_ArgumentTypes.AssemblyInfo.cs
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\obj\Debug\net5.0\Demo_ArgumentTypes.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\bin\Debug\net5.0\Demo_ArgumentTypes.exe
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\bin\Debug\net5.0\Demo_ArgumentTypes.deps.json
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\bin\Debug\net5.0\Demo_ArgumentTypes.runtimeconfig.json
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\bin\Debug\net5.0\Demo_ArgumentTypes.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\bin\Debug\net5.0\Demo_ArgumentTypes.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\bin\Debug\net5.0\ref\Demo_ArgumentTypes.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\bin\Debug\net5.0\Demo_ArgumentTypes.pdb
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\obj\Debug\net5.0\Demo_ArgumentTypes.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\obj\Debug\net5.0\ref\Demo_ArgumentTypes.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\obj\Debug\net5.0\Demo_ArgumentTypes.pdb
+C:\Users\hp\source\repos\CSharpdemos\Demo_ArgumentTypes\obj\Debug\net5.0\Demo_ArgumentTypes.genruntimeconfig.cache

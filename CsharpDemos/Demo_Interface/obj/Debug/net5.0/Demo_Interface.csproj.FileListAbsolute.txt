@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\bin\Debug\net5.0\Demo_Interface.exe
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\bin\Debug\net5.0\Demo_Interface.deps.json
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\bin\Debug\net5.0\Demo_Interface.runtimeconfig.json
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\bin\Debug\net5.0\Demo_Interface.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\bin\Debug\net5.0\Demo_Interface.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\bin\Debug\net5.0\ref\Demo_Interface.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\bin\Debug\net5.0\Demo_Interface.pdb
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\obj\Debug\net5.0\Demo_Interface.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\obj\Debug\net5.0\Demo_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\obj\Debug\net5.0\Demo_Interface.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\obj\Debug\net5.0\Demo_Interface.AssemblyInfo.cs
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\obj\Debug\net5.0\Demo_Interface.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\obj\Debug\net5.0\Demo_Interface.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\obj\Debug\net5.0\ref\Demo_Interface.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\obj\Debug\net5.0\Demo_Interface.pdb
+C:\Users\hp\source\repos\CSharpdemos\Demo_Interface\obj\Debug\net5.0\Demo_Interface.genruntimeconfig.cache

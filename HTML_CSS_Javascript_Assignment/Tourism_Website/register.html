@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourism Site of Gwalior</title>
+    <style>   
+        div{
+            
+            height: 100%;
+            border: 6px solid black ;
+            background: linear-gradient(rgb(195, 0, 255),rgb(255, 115, 0),rgb(255, 0, 76));
+        }
+        h1{
+            text-align: center;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            color: mediumblue;
+            font-style: oblique;
+            font-weight: bold;
+            margin-bottom: 60px;
+        }
+       ::placeholder{
+           color: red;
+       }
+       input{
+        margin-left: 45px;
+       }
+       label{
+           margin-left: 25px;
+           font-weight: bold;
+           font-style: normal;
+           font-family: 'Times New Roman', Times, serif;
+           font-size: 30px;
+       }
+       textarea{
+           margin-left: 130px;
+       }
+       select{
+        margin-left: 70px;
+        width: 150px;
+       }    
+       button{
+        margin-left: 530px;
+        margin-bottom: 10px;
+       }
+    </style>
+</head>
+<body>
+    <div>
+    <H1>Fill Details!</H1>
+    <form>
+        <label for="userid" >User Id:</label>
+        <input type="text" id="userid" name="userid" placeholder="Required and must be of length 5 to 12."><br>
+        <label for="pswd">Password:</label>
+        <input type="password" id="pswd" name="pswd" placeholder="Required and must be of length 7 to 12."><br>
+        <label for="fname">Name:</label>
+        <input type="text" id="fname" name="fname" placeholder="Required and alphabates only."><br>
+        <label for="adres">Address:</label>
+        <input type="text" id="adres" name="adres" placeholder="Optional"><br>
+        <label for="cars">Country:</label>
+        <select id="cars" name="cars">
+            <option >India</option>
+            <option >Pakistan</option>
+            <option>Australia</option>
+            <option >South Africa</option>
+        </select><br>
+        <label for="zip">ZIP CODE :</label>
+        <input type="number" id="zip" name="zip" placeholder="Required and must be numeric only."><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" placeholder="Required must be a valid Email."><br>
+        <label for="sex">Sex:</label>
+        <input type="radio" id="male" name="fav_language" value="male">
+         <label for="male">Male</label>
+        <input type="radio" id="female" name="fav_language" value="female">
+         <label for="female">Female</label>  <br>
+        <label for="language">Language:</label>
+        <input type="checkbox" id="english" name="fav_language" value="english">
+         <label for="english">English</label>
+<input type="checkbox" id="noenglish" name="fav_language" value="noenglish">
+         <label for="noenglish">Non English</label>  <br>
+        <label for="email">About:</label><br>
+        <textarea name="message" rows="5" cols="30" placeholder="Optional"></textarea><br>
+        <button type="button" onclick="alert('Details Submitted')">SUBMIT</button>
+      </form>
+</div>
+</body>
+</html>

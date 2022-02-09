@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\bin\Debug\net5.0\Demo_DataTypes.exe
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\bin\Debug\net5.0\Demo_DataTypes.deps.json
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\bin\Debug\net5.0\Demo_DataTypes.runtimeconfig.json
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\bin\Debug\net5.0\Demo_DataTypes.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\bin\Debug\net5.0\Demo_DataTypes.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\bin\Debug\net5.0\ref\Demo_DataTypes.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\bin\Debug\net5.0\Demo_DataTypes.pdb
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\obj\Debug\net5.0\Demo_DataTypes.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\obj\Debug\net5.0\Demo_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\obj\Debug\net5.0\Demo_DataTypes.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\obj\Debug\net5.0\Demo_DataTypes.AssemblyInfo.cs
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\obj\Debug\net5.0\Demo_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\obj\Debug\net5.0\Demo_DataTypes.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\obj\Debug\net5.0\ref\Demo_DataTypes.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\obj\Debug\net5.0\Demo_DataTypes.pdb
+C:\Users\hp\source\repos\CSharpdemos\Demo_DataTypes\obj\Debug\net5.0\Demo_DataTypes.genruntimeconfig.cache

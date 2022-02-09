@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4ba289d-e62a-4cdc-a6df-c13cfffc1015": {
+      "ProjectGuid": "b4ba289d-e62a-4cdc-a6df-c13cfffc1015",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "31cb8ed9-91a7-49c4-b37d-a491c8cfd2bc": {
+      "ProjectGuid": "31cb8ed9-91a7-49c4-b37d-a491c8cfd2bc",
+      "DisplayName": "Demo_HelloWorld",
+      "ColorIndex": 1
+    },
+    "1089fb3e-47b7-4aa3-a3f2-38a0dd58062c": {
+      "ProjectGuid": "1089fb3e-47b7-4aa3-a3f2-38a0dd58062c",
+      "DisplayName": "Demo_DataTypes",
+      "ColorIndex": 2
+    },
+    "e5744517-7adf-4152-96d7-469bb73f6056": {
+      "ProjectGuid": "e5744517-7adf-4152-96d7-469bb73f6056",
+      "DisplayName": "Demo_ArgumentTypes",
+      "ColorIndex": 3
+    },
+    "c39b8d3d-e6cf-4b2e-ba96-b379e5c677a9": {
+      "ProjectGuid": "c39b8d3d-e6cf-4b2e-ba96-b379e5c677a9",
+      "DisplayName": "Demo_Interface",
+      "ColorIndex": 4
+    },
+    "3b4bfaa1-2263-4eaa-80cf-10947df93410": {
+      "ProjectGuid": "3b4bfaa1-2263-4eaa-80cf-10947df93410",
+      "DisplayName": "Demo_AnonymousMethod",
+      "ColorIndex": 5
+    },
+    "0f77fd22-2f6d-41f8-85d7-1f0051d1fe9a": {
+      "ProjectGuid": "0f77fd22-2f6d-41f8-85d7-1f0051d1fe9a",
+      "DisplayName": "Demo_LINQ",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c0e09337-5d91-4c0a-ada0-f0af5ba662fa": {
+      "ProjectGuid": "c0e09337-5d91-4c0a-ada0-f0af5ba662fa",
+      "DisplayName": "Demo_WebAPP",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

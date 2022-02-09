@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\obj\Debug\net5.0\Demo_LINQ.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\obj\Debug\net5.0\Demo_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\obj\Debug\net5.0\Demo_LINQ.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\obj\Debug\net5.0\Demo_LINQ.AssemblyInfo.cs
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\obj\Debug\net5.0\Demo_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\bin\Debug\net5.0\Demo_LINQ.exe
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\bin\Debug\net5.0\Demo_LINQ.deps.json
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\bin\Debug\net5.0\Demo_LINQ.runtimeconfig.json
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\bin\Debug\net5.0\Demo_LINQ.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\bin\Debug\net5.0\Demo_LINQ.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\bin\Debug\net5.0\ref\Demo_LINQ.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\bin\Debug\net5.0\Demo_LINQ.pdb
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\obj\Debug\net5.0\Demo_LINQ.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\obj\Debug\net5.0\ref\Demo_LINQ.dll
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\obj\Debug\net5.0\Demo_LINQ.pdb
+C:\Users\hp\source\repos\CSharpdemos\Demo_LINQ\obj\Debug\net5.0\Demo_LINQ.genruntimeconfig.cache
